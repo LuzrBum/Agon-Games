@@ -1,8 +1,8 @@
 # Agon-Games
 Games from the BBC "ported" to the Agon 
 ## Oregon Trail
-https://github.com/LuzrBum/Agon-OregonTrail
--
+- https://github.com/LuzrBum/Agon-OregonTrail
+- Mentioned on Bernardo´s page! 
 ## Downing Street
 #### How to install and run:  
 * Download "DOWNING.BBC" and copy both files to SD card, insert in Agon Light, powerup.  
