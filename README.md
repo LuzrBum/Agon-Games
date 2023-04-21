@@ -1,5 +1,5 @@
 # Agon-Games
-Games from the BBC Micro "ported" to the Agon 
+Games from the BBC Micro "ported" to the Agon by yours truly
 ## Oregon Trail
 - https://github.com/LuzrBum/Agon-OregonTrail
 - Mentioned on Bernardo´s page! https://www.thebyteattic.com/p/agon.html
