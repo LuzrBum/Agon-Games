@@ -13,6 +13,6 @@ Games from the BBC Micro "ported" to the Agon by yours truly
 Simple text puzzle game
 https://github.com/LuzrBum/Agon-Swap
 
-# EXTERNAL
+# Links to other people
 ## Sokoban
 The master https://github.com/envenomator/agon-sokoban/tree/master/binaries
